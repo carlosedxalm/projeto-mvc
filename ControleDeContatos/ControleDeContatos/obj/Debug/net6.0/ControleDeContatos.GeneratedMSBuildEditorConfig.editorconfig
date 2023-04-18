@@ -16,6 +16,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\projetos\projeto-mvc\projeto-mvc\ControleDeContatos\ControleDeContatos
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/projetos/projeto-mvc/projeto-mvc/ControleDeContatos/ControleDeContatos/Views/Contato/ApagarConfirmacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/projeto-mvc/projeto-mvc/ControleDeContatos/ControleDeContatos/Views/Contato/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xDcmlhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/projeto-mvc/projeto-mvc/ControleDeContatos/ControleDeContatos/Views/Contato/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/projetos/projeto-mvc/projeto-mvc/ControleDeContatos/ControleDeContatos/Views/Contato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/projetos/projeto-mvc/projeto-mvc/ControleDeContatos/ControleDeContatos/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
